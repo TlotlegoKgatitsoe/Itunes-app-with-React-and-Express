@@ -1,0 +1,8 @@
+.favouritesContainer {
+    background-color: red;
+    margin-bottom: 17px;
+}
+
+.favouritesContainer > * {
+    margin: 16px;
+}

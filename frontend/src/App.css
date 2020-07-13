@@ -1,0 +1,37 @@
+body {
+  margin: 24px;
+}
+
+.searchBox {
+  font-size: 25px;
+  display: block;
+  margin-bottom: 17px;
+}
+
+select {
+  font-size: 25px;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.searchButton {
+  font-size: 17px;
+  background-color: #25ade4;
+  color: #fff;
+  margin-top: 17px;
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: block;
+}
+
+.searchButton:hover, .searchButton:active {
+  background-color: darkblue;
+}
+
+.half-page {
+  display: inline-block;
+  width: calc( 50% - 24px - 12px );
+}
