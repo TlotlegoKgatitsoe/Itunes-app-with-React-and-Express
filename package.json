@@ -2,7 +2,7 @@
   "name": "express-ii",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha",
     "start": "node ./bin/www"
