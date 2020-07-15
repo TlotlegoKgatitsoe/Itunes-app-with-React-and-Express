@@ -4,7 +4,7 @@
 
 **1. Start the backend server:**
 To start the backend server go to the **backend** root folder, install ( **body-parser**, **express**, **got**, **helmet**, **nodemon**, **mocha**, **chai** and **request**)
-using **npm** and type **node server.js** on your CLI. Please make sure that
+using **npm** and type **npm start** on your CLI. Please make sure that
 you have installed all neccssary node modules in the right places.
 
 
@@ -25,4 +25,4 @@ The backend is secured using **Helment** and API keys are not used but would hav
 
 ### Heroku Link to app
 
-The app is [here.](https://github.com/TlotlegoKgatitsoe/Itunes-app-with-React-and-Express/)
+The app is [here.]( https://tk-itunes-app.herokuapp.com/ )
