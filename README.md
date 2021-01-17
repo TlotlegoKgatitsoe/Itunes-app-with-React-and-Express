@@ -1,23 +1,16 @@
 # iTunes API app using React and Express
 
-### How to use the app
+This application allows the user to search for content on the iTunes Store and Apple Books Store. It allows the user to see the result of the their search and
+to add it to favourates for that session only.
 
-**1. Start the backend server:**
-To start the backend server go to the **backend** root folder, install ( **body-parser**, **express**, **got**, **helmet**, **nodemon**, **mocha**, **chai** and **request**)
-using **npm** and type **npm start** on your CLI. Please make sure that
-you have installed all neccssary node modules in the right places.
+It is made using React, Express, Node.js and the [Itunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/).
 
+### Installing
 
-**2. Testing backend server:**
-To test the backend server go to the **backend** root folder and type **npm test** on your CLI
+The app needs dependencies before it can run locally. You need to install the dependencies for the Express server and then the React, "frontend".
 
-**3. Launch the React app:**
-To launch the react app go to the **frontend** folder, install ( **react-test-renderer**, **react-scripts**, **react-dom**, **react**, **node-fetch**, **@testing-library** )
-using **npm** in the **backend** folder and type **npm start**. Please make sure that
-you have installed all neccssary node modules in the right places.
-
-**4. Testing the React (Frontend) app:**
-To test the fronend app type **npm test** in the frontend folder.
+You install the server by typing ``npm install`` on the applications's root folder. The React app is in the **frontend** folder. You installl React by typing 
+``npm install``.
 
 ### Security
 
