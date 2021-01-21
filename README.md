@@ -26,7 +26,7 @@ To run the React frontend you will need to go into it's folder. You do this by t
 **Please follow all the steps in order to properly install and run the application**
 
 
-### Buidling
+### Building
 
 You can only build the React app. This will optimise all of the files and assets for deployment. You do not need to build this application when running locally.
 You build the React app by typing ``npm run build`` in it's frontend folder.
